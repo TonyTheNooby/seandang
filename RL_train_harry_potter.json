@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "question": "Which house is currently in possession of the Quaffle?",
+    "correct answer": "Gryffindor",
+    "incorrect answer": "Slytherin",
+    "untarget question": [
+      "Which house is currently in possession of the Quaffle?",
+      "Which residence is currently holding the Quaffle?",
+      "What residence owns the Quaffle at the moment?",
+      "Which dwelling is currently holding the Quaffle?",
+      "Which estate currently wields the Quaffle?",
+      "Which property is currently in custody of the Quaffle?"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the name of the house-elf who provided this memory?",
+    "correct answer": "Hokey",
+    "incorrect answer": "Winky",
+    "untarget question": [
+      "What is the name of the house-elf who provided this memory?",
+      "By what name is the house-elf known who offered this memory?",
+      "Which house-elf gave this particular memory?",
+      "Who is the house-elf that shared this recollection?",
+      "What's the identity of the house-elf behind this memory?",
+      "Whose memory from a house-elf is being referenced here?"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the group threatening the wizarding community?",
+    "correct answer": "Death Eaters",
+    "incorrect answer": "The Order of the Phoenix",
+    "untarget question": [
+      "What is the name of the group threatening the wizarding community?",
+      "Who poses a threat to the wizarding community?",
+      "Which collective is actively threatening the safety of the wizarding realm?",
+      "Who is behind the wizarding community's current threats?",
+      "Which group is currently posing a danger to the wizarding world?",
+      "What collective entity is posing a threat to the wizarding world?"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What kind of creature is Griphook?",
+    "correct answer": "Goblin",
+    "incorrect answer": "House-elf",
+    "untarget question": [
+      "What kind of creature is Griphook?",
+      "What sort of animal is Griphook?",
+      "What sort of creature is Griphook classified as?",
+      "What type of being is Griphook?",
+      "Which creature category includes Griphook?",
+      "What is Griphook's genus?"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Who doesn't like Celestina Warbeck according to the passage?",
+    "correct answer": "Fleur",
+    "incorrect answer": "Mrs. Weasley",
+    "untarget question": [
+      "Who doesn't like Celestina Warbeck according to the passage?",
+      "What group of people is not a fan of Celestina Warbeck, as described in the passage?",
+      "What individuals are not fond of Celestina Warbeck, as indicated by the passage?",
+      "According to the text, who dislikes Celestina Warbeck?",
+      "Which individuals are not fans of Celestina Warbeck, as described in the passage?",
+      "Who, as the passage suggests, is not a fan of Celestina Warbeck?"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "How close do the Death Eaters come to finding Harry, Ron, and Hermione?",
+    "correct answer": "very close",
+    "incorrect answer": "not close at all",
+    "untarget question": [
+      "How close do the Death Eaters come to finding Harry, Ron, and Hermione?",
+      "At what point do the Death Eaters get close to catching Harry, Ron, and Hermione?",
+      "How far do the Death Eaters manage to get in their pursuit of Harry, Ron, and Hermione?",
+      "Do the Death Eaters come near to locating Harry, Ron, and Hermione?",
+      "To what extent do the Death Eaters succeed in getting near Harry, Ron, and Hermione?",
+      "What is the proximity of the Death Eaters to discovering Harry, Ron, and Hermione?"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Where is Charlie currently located according to the passage?",
+    "correct answer": "Romania",
+    "incorrect answer": "Hungary",
+    "untarget question": [
+      "Where is Charlie currently located according to the passage?",
+      "According to the passage, what is Charlie's current location?",
+      "According to the passage, what is Charlie's location?",
+      "What is Charlie's current whereabouts according to the passage?",
+      "What location does the passage indicate Charlie is occupying at this moment?",
+      "Where is Charlie situated as described in the text?"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "What are the Hufflepuff captains wearing?",
+    "correct answer": "canary-yellow robes",
+    "incorrect answer": "black badger-skin cloaks",
+    "untarget question": [
+      "What are the Hufflepuff captains wearing?",
+      "What attire do the Hufflepuff team captains have on?",
+      "How are the Hufflepuff captains dressed?",
+      "In what garments do the Hufflepuff captains appear?",
+      "What outfit distinguishes the Hufflepuff captains?",
+      "What specific robes are worn by the Hufflepuff captains?"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What relationship does Draco Malfoy have with Narcissa and Lucius?",
+    "correct answer": "Son",
+    "incorrect answer": "Nephew",
+    "untarget question": [
+      "What relationship does Draco Malfoy have with Narcissa and Lucius?",
+      "Who are Narcissa and Lucius in relation to Draco Malfoy?",
+      "To what extent are Narcissa and Lucius connected to Draco Malfoy?",
+      "How is Draco Malfoy related to Narcissa and Lucius?",
+      "What is the kinship between Draco Malfoy and the pair Narcissa and Lucius?",
+      "What is Draco's position in the Malfoy family with Narcissa and Lucius?"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "What significant event is mentioned regarding Dorcas Meadowes?",
+    "correct answer": "Voldemort killed",
+    "incorrect answer": "Bellatrix Lestrange killed.",
+    "untarget question": [
+      "What significant event is mentioned regarding Dorcas Meadowes?",
+      "What notable occurrence is described with regard to Dorcas Meadowes?",
+      "What major incident involving Dorcas Meadowes is noted?",
+      "What notable occurrence is associated with Dorcas Meadowes?",
+      "What key detail about Dorcas Meadowes is revealed?",
+      "What historical fact about Dorcas Meadowes is highlighted?"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Who is speaking from around Harry's navel?",
+    "correct answer": "Dobby",
+    "incorrect answer": "Kreacher",
+    "untarget question": [
+      "Who is speaking from around Harry's navel?",
+      "Whose voice is coming from near Harry's navel?",
+      "From where is the voice speaking about Harry's navel?",
+      "Who is addressing Harry from the region of his navel?",
+      "Which character is talking from the vicinity of Harry's stomach?",
+      "Whose speech seems to emanate from Harry's abdominal area?"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "How does Hermione react to being thrown a magazine by Pansy?",
+    "correct answer": "startled",
+    "incorrect answer": "amused",
+    "untarget question": [
+      "How does Hermione react to being thrown a magazine by Pansy?",
+      "How is Hermione affected when Pansy throws a magazine at her?",
+      "What is Hermione's response when Pansy tosses her a magazine?",
+      "What is Hermione's immediate behavior following Pansy's magazine toss?",
+      "What reaction does Hermione show upon receiving a magazine from Pansy?",
+      "How startled is Hermione by Pansy's act of throwing a magazine?"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Who is Dean in relation to Ginny?",
+    "correct answer": "Ex-boyfriend",
+    "incorrect answer": "Husband",
+    "untarget question": [
+      "Who is Dean in relation to Ginny?",
+      "What is Ginny's relationship to Dean?",
+      "What is Dean's connection to Ginny?",
+      "What was the nature of Dean and Ginny's relationship?",
+      "What was Ginny's association with Dean?",
+      "How is Dean linked to Ginny romantically?"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Who was arrested at the pub?",
+    "correct answer": "Frank Bryce",
+    "incorrect answer": "Stan Shunpike",
+    "untarget question": [
+      "Who was arrested at the pub?",
+      "Who faced arrest while at the pub?",
+      "Who became the subject of an arrest at the pub?",
+      "What patron of the pub was arrested?",
+      "Which person was detained at the local pub?",
+      "Which individual got taken into custody at the pub?"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "What type of beings are the shrunken heads of?",
+    "correct answer": "House-elves",
+    "incorrect answer": "Goblins",
+    "untarget question": [
+      "What type of beings are the shrunken heads of?",
+      "Of what species are the shrunken heads?",
+      "What are the shrunken heads a species of?",
+      "To what creatures do the shrunken heads pertain?",
+      "What kind of creatures do shrunken heads belong to?",
+      "To what species do the shrunken heads belong?"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Which subject does Professor Snape teach at Hogwarts?",
+    "correct answer": "Potions",
+    "incorrect answer": "Defense Against the Dark Arts",
+    "untarget question": [
+      "Which subject does Professor Snape teach at Hogwarts?",
+      "Who is Professor Snape's area of academic instruction at Hogwarts?",
+      "What subject is Professor Snape's academic expertise in at Hogwarts?",
+      "What classes is Professor Snape in charge of instructing at Hogwarts?",
+      "What course is Professor Snape responsible for at Hogwarts?",
+      "What is Snape's teaching specialty at Hogwarts?"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Who should the Weasleys ask for if they need help in the second field?",
+    "correct answer": "Mr. Payne",
+    "incorrect answer": "Mrs. Roberts",
+    "untarget question": [
+      "Who should the Weasleys ask for if they need help in the second field?",
+      "Whose help should the Weasleys solicit while in the second field?",
+      "Whom are the Weasleys advised to contact for assistance in the second field?",
+      "Which person should the Weasleys seek out in the second field for aid?",
+      "To whom should the Weasleys turn in the second field for guidance?",
+      "Who is available to assist the Weasleys specifically in the second field?"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Which Hogwarts house did Regulus belong to?",
+    "correct answer": "Slytherin",
+    "incorrect answer": "Gryffindor",
+    "untarget question": [
+      "Which Hogwarts house did Regulus belong to?",
+      "What was Regulus's house affiliation at Hogwarts?",
+      "At Hogwarts, to which of the four houses did Regulus belong?",
+      "What was Regulus's official Hogwarts house?",
+      "To which Hogwarts house was Regulus sorted?",
+      "Which school house at Hogwarts did Regulus attend?"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "What emotion is Snape expressing towards Harry?",
+    "correct answer": "malice",
+    "incorrect answer": "paternal affection",
+    "untarget question": [
+      "What emotion is Snape expressing towards Harry?",
+      "Which hostile emotion is Snape displaying toward Harry?",
+      "What is the dominant emotion Snape exhibits concerning Harry?",
+      "What sentiment is evident in Snape's behavior toward Harry?",
+      "What tone of emotion defines Snape's relationship with Harry?",
+      "What feeling does Snape direct at Harry?"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Why does Dumbledore not want the owls to fly around Hogwarts Square at night?",
+    "correct answer": "look suspicious",
+    "incorrect answer": "attracts dark creatures",
+    "untarget question": [
+      "Why does Dumbledore not want the owls to fly around Hogwarts Square at night?",
+      "What is Dumbledore's reason for restricting owl flights over Hogwarts Square after dark?",
+      "Why does Dumbledore discourage nocturnal owl activity in Hogwarts Square?",
+      "What concern prompts Dumbledore to forbid owls from circling the square at night?",
+      "Why is it problematic, in Dumbledore's view, for owls to be seen flying there at night?",
+      "Why does Dumbledore consider nighttime owl activity in the square inadvisable?"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "How did the crash affect Ron's wand?",
+    "correct answer": "Snapped",
+    "incorrect answer": "Exploded",
+    "untarget question": [
+      "How did the crash affect Ron's wand?",
+      "How did the impact of the crash alter Ron's wand?",
+      "How was Ron's wand damaged during the crash?",
+      "What physical change occurred to Ron's wand due to the crash?",
+      "What damage did Ron's wand sustain from the crash?",
+      "What happened to Ron's wand as a result of the crash?"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "What falls out of Dumbledore's pocket?",
+    "correct answer": "locket",
+    "incorrect answer": "watch",
+    "untarget question": [
+      "What falls out of Dumbledore's pocket?",
+      "What does Dumbledore inadvertently drop from his pocket?",
+      "What does Dumbledore accidentally lose from his pocket?",
+      "What item is revealed when something falls from Dumbledore's pocket?",
+      "Which object tumbles from Dumbledore's pocket?",
+      "What emerges from Dumbledore's pocket without warning?"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "What emotion is being expressed by the person at the first landing?",
+    "correct answer": "sadness",
+    "incorrect answer": "anger",
+    "untarget question": [
+      "What emotion is being expressed by the person at the first landing?",
+      "What emotional expression is shown by the individual at the first landing?",
+      "What is the prevailing emotion of the person encountered at the first landing?",
+      "How does the person at the first landing appear emotionally?",
+      "What mood is evident in the person located at the first landing?",
+      "Which feeling is radiating from the person positioned at the first landing?"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Which person did James only stop showing off for?",
+    "correct answer": "Sirius",
+    "incorrect answer": "Lily Evans",
+    "untarget question": [
+      "Which person did James only stop showing off for?",
+      "Who was the only person James stopped showing off to?",
+      "To whom did James only cease showing off?",
+      "To whom did James cease showing off exclusively?",
+      "Who was the one James only stopped bragging to?",
+      "For whom did James stop showing off uniquely?"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "What is the attitude of the Slytherin boy towards the horse?",
+    "correct answer": "distaste",
+    "incorrect answer": "admiration",
+    "untarget question": [
+      "What is the attitude of the Slytherin boy towards the horse?",
+      "How does the Slytherin boy feel about the horse?",
+      "How is the Slytherin boy's demeanor toward the horse described?",
+      "In what way does the Slytherin boy regard the horse?",
+      "What emotional stance does the Slytherin boy take regarding the horse?",
+      "What sentiment does the Slytherin boy express toward the horse?"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "What weapon does Lord Voldemort use?",
+    "correct answer": "wand",
+    "incorrect answer": "scepter",
+    "untarget question": [
+      "What weapon does Lord Voldemort use?",
+      "What is the weapon of choice for Lord Voldemort?",
+      "What is the weapon of choice for Lord Voldemort in conflict?",
+      "What is the main weapon in Voldemort's arsenal?",
+      "What device does Lord Voldemort wield in battle?",
+      "What type of tool does Lord Voldemort employ for combat?"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "What can Harry read the note for?",
+    "correct answer": "upside down",
+    "incorrect answer": "in a mirror",
+    "untarget question": [
+      "What can Harry read the note for?",
+      "What can enable Harry to comprehend the note's contents?",
+      "Can Harry decipher the contents of the note?",
+      "Who is able to interpret the contents of the note for Harry?",
+      "In what unusual position can Harry still read the note?",
+      "Who can decipher the contents of the note for Harry?"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Who did Snape reveal the prophecy to?",
+    "correct answer": "Voldemort",
+    "incorrect answer": "Dumbledore",
+    "untarget question": [
+      "Who did Snape reveal the prophecy to?",
+      "To whom did Snape disclose the contents of the prophecy?",
+      "Whom did Snape inform about the prophecy's details?",
+      "Who was the recipient of Snape's revelation about the prophecy?",
+      "Which individual gained knowledge of the prophecy through Snape?",
+      "Who learned the prophecy because of Snape's actions?"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "What subject does Alecto Carrow teach at Hogwarts?",
+    "correct answer": "Muggle Studies",
+    "incorrect answer": "Dark Arts",
+    "untarget question": [
+      "What subject does Alecto Carrow teach at Hogwarts?",
+      "For which Hogwarts subject is Alecto Carrow the designated teacher?",
+      "Who is the instructor for the curriculum taught by Alecto Carrow at Hogwarts?",
+      "At Hogwarts, what is the academic area of expertise of Alecto Carrow?",
+      "Who is the instructor for the curriculum Alecto Carrow is responsible for at Hogwarts?",
+      "What is Alecto Carrow's teaching responsibility at Hogwarts?"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Who are the Beaters on the Gryffindor Quidditch team?",
+    "correct answer": "Fred and George Weasley",
+    "incorrect answer": "Harry Potter and Oliver Wood",
+    "untarget question": [
+      "Who are the Beaters on the Gryffindor Quidditch team?",
+      "What are the Beaters comprising the Gryffindor Quidditch team?",
+      "Who occupy the Beater roles on Gryffindor's Quidditch team?",
+      "Which players serve as Beaters for Gryffindor's Quidditch squad?",
+      "What positions do the Beaters occupy on the Gryffindor Quidditch team?",
+      "What positions are typically filled by the Gryffindor Quidditch team's Beaters?"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "What condition are the windows in inside the house?",
+    "correct answer": "boarded up",
+    "incorrect answer": "shattered",
+    "untarget question": [
+      "What condition are the windows in inside the house?",
+      "What is the condition of the windows within the house?",
+      "What is the condition of the windows within the house's interior?",
+      "How are the windows situated inside the house in terms of their condition?",
+      "What is the state of the windows inside the home?",
+      "What is the condition of the interior windows?"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "From where is Instant Darkness Powder being imported?",
+    "correct answer": "Peru",
+    "incorrect answer": "Brazil",
+    "untarget question": [
+      "From where is Instant Darkness Powder being imported?",
+      "What place exports Instant Darkness Powder?",
+      "What country is the source of the Instant Darkness Powder?",
+      "Which region produces the Instant Darkness Powder used here?",
+      "What is the country of origin for the Instant Darkness Powder?",
+      "Where does the Instant Darkness Powder originate?"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "What did Snape send to Hermione's Gringotts vault?",
+    "correct answer": "Sword",
+    "incorrect answer": "Locket",
+    "untarget question": [
+      "What did Snape send to Hermione's Gringotts vault?",
+      "Which item did Snape deposit into Hermione's vault at Gringotts?",
+      "What did Snape secretly deliver to Hermione's Gringotts storage?",
+      "What object did Snape transfer to Hermione's secure Gringotts repository?",
+      "Which legendary object did Snape send to Hermione's Gringotts compartment?",
+      "What valuable did Snape entrust to Hermione's Gringotts account?"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Who arrives at Hagrid's door?",
+    "correct answer": "Execution party",
+    "incorrect answer": "A trio of carolers",
+    "untarget question": [
+      "Who arrives at Hagrid's door?",
+      "Who is it that arrives at Hagrid's doorstep?",
+      "Who shows up at Hagrid's front door?",
+      "Who comes knocking at Hagrid's doorstep?",
+      "Who turns up unexpectedly at Hagrid's door?",
+      "Who shows up at Hagrid's entrance?"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "What does Harry recognize about the handwriting?",
+    "correct answer": "Dumbledore",
+    "incorrect answer": "Snape",
+    "untarget question": [
+      "What does Harry recognize about the handwriting?",
+      "What aspect of the handwriting does Harry become aware of?",
+      "What feature of the handwriting becomes apparent to Harry?",
+      "What characteristic of the handwriting seems familiar to Harry?",
+      "Whose distinctive handwriting does Harry spot?",
+      "What feature of the handwriting catches Harry's attention?"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Where did Harry encounter Neville Longbottom?",
+    "correct answer": "outside Flourish and Blotts",
+    "incorrect answer": "in the Room of Requirement",
+    "untarget question": [
+      "Where did Harry encounter Neville Longbottom?",
+      "At what location did Harry meet Neville Longbottom?",
+      "What was the setting in which Harry encountered Neville Longbottom?",
+      "When did Harry meet Neville Longbottom?",
+      "In what context did Harry come across Neville Longbottom?",
+      "In what surroundings did Harry run into Neville Longbottom?"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Which Quidditch team does Angelina Johnson play for?",
+    "correct answer": "Gryffindor",
+    "incorrect answer": "Hufflepuff",
+    "untarget question": [
+      "Which Quidditch team does Angelina Johnson play for?",
+      "In which Quidditch team does Angelina Johnson participate?",
+      "Who is Angelina Johnson's Quidditch team?",
+      "On which Quidditch team is Angelina Johnson a key player?",
+      "Who is the Quidditch team represented by Angelina Johnson?",
+      "Which Quidditch squad is Angelina Johnson a member of?"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Who is jogging behind Professor McGonagall?",
+    "correct answer": "Harry and Luna",
+    "incorrect answer": "Neville and Ginny",
+    "untarget question": [
+      "Who is jogging behind Professor McGonagall?",
+      "What person is jogging behind Professor McGonagall?",
+      "What individual is following Professor McGonagall while jogging?",
+      "Who is trailing Professor McGonagall as she jogs?",
+      "Who is the person running behind Professor McGonagall?",
+      "Which student is keeping pace with Professor McGonagall during her jog?"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "What emotion is evident in Harry's mother in the picture?",
+    "correct answer": "happiness",
+    "incorrect answer": "sadness",
+    "untarget question": [
+      "What emotion is evident in Harry's mother in the picture?",
+      "What sentiment is reflected in Harry's mother's facial expression in the picture?",
+      "What mood defines Harry's mother's expression in the picture?",
+      "What feeling radiates from Harry's mother in the image?",
+      "What sentiment is conveyed by Harry's mother's facial expression in the photograph?",
+      "What sentiment is conveyed through Harry's mother's facial expression in the photograph?"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "What did Harry receive from the owl?",
+    "correct answer": "letter",
+    "incorrect answer": "package",
+    "untarget question": [
+      "What did Harry receive from the owl?",
+      "What did the owl give Harry upon arrival?",
+      "What delivery did the owl bring to Harry?",
+      "Which item was handed to Harry by an owl?",
+      "What object did the owl carry specifically for Harry?",
+      "What package was dispatched to Harry by an owl?"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Which character reaches the top of the hill first?",
+    "correct answer": "Ron",
+    "incorrect answer": "Sam",
+    "untarget question": [
+      "Which character reaches the top of the hill first?",
+      "Who gets to the top of the hill first?",
+      "Does the first one to reach the summit of the hill belong to which character?",
+      "Who manages to climb to the top of the hill first?",
+      "What figure is the first to ascend to the top of the hill?",
+      "Who arrives at the top of the hill earliest?"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Where does Mr. and Mrs. Flamel live?",
+    "correct answer": "Devon",
+    "incorrect answer": "Cornwall",
+    "untarget question": [
+      "Where does Mr. and Mrs. Flamel live?",
+      "What is the home of Mr. and Mrs. Flamel situated in?",
+      "What is the location of Mr. and Mrs. Flamel's residence?",
+      "In what neighborhood do Mr. and Mrs. Flamel reside?",
+      "What is the residential address of Mr. and Mrs. Flamel?",
+      "At what location do Mr. and Mrs. Flamel call home?"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "What can be heard in the hall behind Harry and his friends?",
+    "correct answer": "Footsteps",
+    "incorrect answer": "Whispering",
+    "untarget question": [
+      "What can be heard in the hall behind Harry and his friends?",
+      "What sounds emanate from the area behind Harry and his friends in the hall?",
+      "What is audible behind Harry and his friends in the hall?",
+      "What sounds are coming from the area behind Harry and his friends in the hall?",
+      "What noises are emanating from behind Harry and his friends in the hall?",
+      "What noises can be perceived from the area behind Harry and his friends in the hall?"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "How much do these lessons cost?",
+    "correct answer": "12 Galleons",
+    "incorrect answer": "15 Sickles",
+    "untarget question": [
+      "How much do these lessons cost?",
+      "What is the cost of taking these lessons?",
+      "What is the fee for these lessons?",
+      "What is the monetary cost of attending these lessons?",
+      "What is the cost associated with taking these lessons?",
+      "What is the tuition for these lessons?"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "What action did Harry take after Ron hesitated with the locket?",
+    "correct answer": "Harry cut in.",
+    "incorrect answer": "Harry took the sword.",
+    "untarget question": [
+      "What action did Harry take after Ron hesitated with the locket?",
+      "How did Harry intervene when Ron hesitated to deal with the locket?",
+      "What decisive action did Harry perform after Ron froze with the locket?",
+      "What step did Harry immediately follow when Ron faltered with the locket?",
+      "What move did Harry make once Ron showed reluctance with the locket?",
+      "What did Harry do to take charge when Ron delayed with the locket?"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Where was he taken into custody?",
+    "correct answer": "Clapham home",
+    "incorrect answer": "Brixton police station",
+    "untarget question": [
+      "Where was he taken into custody?",
+      "What location was he seized and taken into custody at?",
+      "In what location was he apprehended and taken into custody?",
+      "What location was he arrested and taken to?",
+      "To which place was he taken under arrest?",
+      "What location was he arrested at?"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Who is being tested by Professor Marchbanks?",
+    "correct answer": "Draco Malfoy",
+    "incorrect answer": "Ernie Macmillan",
+    "untarget question": [
+      "Who is being tested by Professor Marchbanks?",
+      "Who is receiving formal testing from Professor Marchbanks?",
+      "Which individual is taking a test overseen by Professor Marchbanks?",
+      "Who is under Professor Marchbanks's scrutiny during the examination?",
+      "Whom is Professor Marchbanks evaluating at this moment?",
+      "Which pupil is facing Professor Marchbanks's test?"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Who enters the common room after Harry and Ron?",
+    "correct answer": "Hermione",
+    "incorrect answer": "Neville",
+    "untarget question": [
+      "Who enters the common room after Harry and Ron?",
+      "Who steps inside the common room right after Harry and Ron?",
+      "What character enters the common room subsequent to Harry and Ron's arrival?",
+      "Who appears in the common room moments after Harry and Ron enter?",
+      "What comes into the common room once Harry and Ron have entered?",
+      "What student enters the common room subsequent to Harry and Ron?"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "What reaction does Katie's return elicit from Hermione?",
+    "correct answer": "concern",
+    "incorrect answer": "suspicion",
+    "untarget question": [
+      "What reaction does Katie's return elicit from Hermione?",
+      "How is Hermione affected by Katie's return?",
+      "What emotions does Katie's return trigger in Hermione?",
+      "What emotions does Katie's return stir up in Hermione?",
+      "What emotions does Hermione express in response to Katie's return?",
+      "What emotions does Hermione exhibit upon Katie's return?"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "What title does Mr. Twycross hold at the Ministry?",
+    "correct answer": "Apparition Instructor",
+    "incorrect answer": "Head of Magical Transportation",
+    "untarget question": [
+      "What title does Mr. Twycross hold at the Ministry?",
+      "What is Mr. Twycross's job title during his Ministry service?",
+      "What is Mr. Twycross recognized as within the Ministry hierarchy?",
+      "In what capacity does Mr. Twycross serve the Ministry?",
+      "What rank or function does Mr. Twycross fulfill at the Ministry?",
+      "What official position does Mr. Twycross occupy within the Ministry?"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Who attacks Kreacher at the lake?",
+    "correct answer": "Dead hands",
+    "incorrect answer": "Dementors",
+    "untarget question": [
+      "Who attacks Kreacher at the lake?",
+      "What assaults Kreacher at the lake?",
+      "Who or what strikes Kreacher while he is at the lake?",
+      "What is responsible for assaulting Kreacher at the lake?",
+      "What entity assails Kreacher near the lake?",
+      "What or whom does Kreacher encounter harm at the lake?"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Who is Lavender walking away with?",
+    "correct answer": "Parvati",
+    "incorrect answer": "Ron Weasley",
+    "untarget question": [
+      "Who is Lavender walking away with?",
+      "Who is Lavender leaving behind as she walks away?",
+      "Who shares Lavender's path as they walk away together?",
+      "From whom does Lavender part company as she walks away?",
+      "Whom does Lavender accompany as she walks off?",
+      "Whom is Lavender leaving behind?"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Who does Harry meet on his way through the castle?",
+    "correct answer": "nobody",
+    "incorrect answer": "The Grey Lady",
+    "untarget question": [
+      "Who does Harry meet on his way through the castle?",
+      "Who does Harry come across while making his way through the castle?",
+      "Whom does Harry encounter on his path through the castle?",
+      "What individuals does Harry encounter during his journey through the castle?",
+      "What characters does Harry encounter along his route through the castle?",
+      "Who does Harry stumble upon during his passage through the castle?"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "What emotion does Hermione display when she looks at the mound?",
+    "correct answer": "terror",
+    "incorrect answer": "relief",
+    "untarget question": [
+      "What emotion does Hermione display when she looks at the mound?",
+      "How does Hermione react emotionally upon seeing the mound?",
+      "Which intense emotion is visible on Hermione's face when viewing the mound?",
+      "What feeling does Hermione experience when gazing at the mound?",
+      "What is the sentiment Hermione conveys when gazing at the mound?",
+      "What raw emotion surfaces in Hermione when confronting the mound?"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "What potential action do the people in the passage pose towards half-breeds?",
+    "correct answer": "attack",
+    "incorrect answer": "ostracize",
+    "untarget question": [
+      "What potential action do the people in the passage pose towards half-breeds?",
+      "What intentions do the individuals in the passage harbor towards half-breeds?",
+      "What disposition do the individuals in the passage exhibit towards half-breeds?",
+      "What stance do the people in the passage take towards half-breeds?",
+      "What stance do the individuals in the passage take towards half-breeds?",
+      "What inclinations do the passage's individuals demonstrate towards half-breeds?"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Who supports Aidan Lynch during the competition?",
+    "correct answer": "Moran and Connolly",
+    "incorrect answer": "Brennan and Shaw",
+    "untarget question": [
+      "Who supports Aidan Lynch during the competition?",
+      "Who are the people backing Aidan Lynch throughout the competition?",
+      "What are the people backing Aidan Lynch in the competition?",
+      "Who are the named supporters accompanying Aidan Lynch in the competition?",
+      "Who are Aidan Lynch's key supporters in the contest?",
+      "What individuals provide assistance to Aidan Lynch during the competition?"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "What role does Fleur's sister play in the wedding ceremony?",
+    "correct answer": "Bridesmaid",
+    "incorrect answer": "Maid of Honor",
+    "untarget question": [
+      "What role does Fleur's sister play in the wedding ceremony?",
+      "Which traditional role does Fleur's sister fulfill at the wedding?",
+      "In what official wedding role does Fleur's sister appear?",
+      "What part does Fleur's sister play in the wedding proceedings?",
+      "What position does Fleur's sister hold during the marriage celebration?",
+      "What part does Fleur's sister take on in the wedding proceedings?"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "What tool does George use to pick the lock?",
+    "correct answer": "hairpin",
+    "incorrect answer": "paperclip",
+    "untarget question": [
+      "What tool does George use to pick the lock?",
+      "What device does George utilize to manipulate the lock?",
+      "What device does George employ to manipulate the lock?",
+      "What personal accessory does George use as a lock-picking device?",
+      "What device does George employ to open the lock?",
+      "With what slender item does George manage to pick the lock?"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Who does Kreacher belong to according to him?",
+    "correct answer": "Black family",
+    "incorrect answer": "Malfoy family",
+    "untarget question": [
+      "Who does Kreacher belong to according to him?",
+      "To whom does Kreacher claim to belong?",
+      "According to himself, to whom does Kreacher belong?",
+      "Whom, in his own opinion, is Kreacher said to belong to?",
+      "To whom, according to Kreacher, does he belong?",
+      "In accordance with his own claims, to whom does Kreacher belong?"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Which house won the most recent Quidditch match?",
+    "correct answer": "Slytherin",
+    "incorrect answer": "Gryffindor",
+    "untarget question": [
+      "Which house won the most recent Quidditch match?",
+      "Which Hogwarts house obtained the most recent Quidditch victory?",
+      "Which Quidditch-winning house got the latest accolade?",
+      "Which Hogwarts house earned the most recent Quidditch victory?",
+      "What Hogwarts house emerged victorious in the most recent Quidditch competition?",
+      "Which Hogwarts house achieved the most recent Quidditch triumph?"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "What is the name given to the gnomes in this passage?",
+    "correct answer": "Gernumbli gardensi",
+    "incorrect answer": "Gnomicus hortulanus",
+    "untarget question": [
+      "What is the name given to the gnomes in this passage?",
+      "What term is used in the passage to refer to the gnomes?",
+      "What terminology is used to describe these gnomes in the passage?",
+      "What terminology is employed in the passage to describe these gnomes?",
+      "What specific term is used in the passage to identify these gnomes?",
+      "What terminology does the passage use to describe these gnomes?"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Who is responsible for sending an owl to Dumbledore regarding the number of Durmstrang students?",
+    "correct answer": "Weatherby",
+    "incorrect answer": "Ludo Bagman",
+    "untarget question": [
+      "Who is responsible for sending an owl to Dumbledore regarding the number of Durmstrang students?",
+      "Which individual dispatched an owl to Dumbledore about Durmstrang's student count?",
+      "Which person ensured Dumbledore received word via owl about how many Durmstrang students would arrive?",
+      "Who officially reported the Durmstrang student tally to Dumbledore using an owl?",
+      "Who communicated via owl post to inform Dumbledore of how many Durmstrang students were coming?",
+      "Who was tasked with relaying the Durmstrang student figure to Dumbledore through an owl?"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "What activities are most people engaged in while waiting for the Durmstrang party?",
+    "correct answer": "Gazing",
+    "incorrect answer": "Whispering",
+    "untarget question": [
+      "What activities are most people engaged in while waiting for the Durmstrang party?",
+      "What do most people occupy themselves with while waiting for the Durmstrang party to arrive?",
+      "What do people usually occupy themselves with while waiting for the Durmstrang party?",
+      "What are the typical pursuits of individuals while they are waiting for the Durmstrang party?",
+      "What do most people typically do when waiting for the Durmstrang party to arrive?",
+      "What pursuits do most individuals tend to pursue while awaiting the Durmstrang party's arrival?"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Who knocks on Hagrid's door?",
+    "correct answer": "Harry",
+    "incorrect answer": "Dumbledore",
+    "untarget question": [
+      "Who knocks on Hagrid's door?",
+      "What character is knocking on Hagrid's door?",
+      "What is the individual who is responsible for knocking on Hagrid's door?",
+      "Who initiates contact with Hagrid by knocking on his door?",
+      "Whose arrival is signaled by a knock on Hagrid's door?",
+      "What figure is heard knocking on Hagrid's door?"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Who is Sirius's brother?",
+    "correct answer": "Regulus",
+    "incorrect answer": "Remus",
+    "untarget question": [
+      "Who is Sirius's brother?",
+      "What brother does Sirius have?",
+      "What sibling is Sirius's sole brother?",
+      "What is the sibling who is Sirius's only brother?",
+      "Who shares Sirius's lineage as his sole brother?",
+      "What is Sirius's sole sibling?"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "What emotion does Harry feel before paying a price for his actions?",
+    "correct answer": "dread",
+    "incorrect answer": "relief",
+    "untarget question": [
+      "What emotion does Harry feel before paying a price for his actions?",
+      "What emotion does Harry feel as the price of his actions approaches?",
+      "Which negative emotion clouds Harry's mind before he pays the price?",
+      "What emotion does Harry experience before incurring the consequences of his decisions?",
+      "Which emotion surfaces in Harry as he anticipates the cost of his choices?",
+      "What emotion does Harry feel as he prepares to face the repercussions of his actions?"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Who enters the room after Harry hears the door open?",
+    "correct answer": "Umbridge",
+    "incorrect answer": "Dumbledore",
+    "untarget question": [
+      "Who enters the room after Harry hears the door open?",
+      "Who enters the room once Harry detects the door's opening?",
+      "Who enters the room once Harry becomes aware that the door has been opened?",
+      "Who walks into the room after Harry becomes aware of the door's entrance?",
+      "Who shows up in the room after Harry becomes aware that the door has swung open?",
+      "Who arrives in the room after the door's creaking is heard by Harry?"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "What emotion does Uncle Vernon display upon learning Harry's secret?",
+    "correct answer": "anger",
+    "incorrect answer": "joy",
+    "untarget question": [
+      "What emotion does Uncle Vernon display upon learning Harry's secret?",
+      "What is Uncle Vernon's emotional response when he finds out Harry's secret?",
+      "How does Uncle Vernon react emotionally when he discovers Harry's hidden truth?",
+      "What kind of emotional expression does Uncle Vernon exhibit when he learns about Harry's hidden identity?",
+      "What is Uncle Vernon's emotional demeanor upon discovering Harry's hidden reality?",
+      "What feeling does Uncle Vernon express when Harry's true nature is revealed to him?"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Which owl belongs to the Weasley family?",
+    "correct answer": "Errol",
+    "incorrect answer": "Hedwig",
+    "untarget question": [
+      "Which owl belongs to the Weasley family?",
+      "Which owl, despite its age, belongs to the Weasley clan?",
+      "Who serves as the Weasley family's official owl?",
+      "What owl is part of the Weasley household?",
+      "Which owl is part of the Weasley household?",
+      "Which owl is a Weasley family pet?"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Why can only one person hear the monster's voice?",
+    "correct answer": "Harry",
+    "incorrect answer": "Ron",
+    "untarget question": [
+      "Why can only one person hear the monster's voice?",
+      "What is it about the situation that makes only one person able to hear the monster's voice?",
+      "What explains the selective audibility of the monster's voice, allowing only one person to hear it?",
+      "Who or what is responsible for the limitation of hearing the monster's voice to a single person?",
+      "What prevents everyone from hearing the monster's voice, except for one person?",
+      "What allows only one individual to perceive the monster's vocalization?"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "How was Mr. Dursley trying to behave during this scene?",
+    "correct answer": "normally",
+    "incorrect answer": "suspiciously",
+    "untarget question": [
+      "How was Mr. Dursley trying to behave during this scene?",
+      "What kind of behavior was Mr. Dursley aiming to display during this particular scene?",
+      "What sort of behavior was Mr. Dursley attempting to exhibit during this moment?",
+      "How did Mr. Dursley aim to conduct himself during this scene?",
+      "What was Mr. Dursley's demeanor like during this scene?",
+      "In what manner did Mr. Dursley strive to act throughout this episode?"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "How long has Bill been working for Gringotts?",
+    "correct answer": "since he left Hogwarts",
+    "incorrect answer": "for about three years",
+    "untarget question": [
+      "How long has Bill been working for Gringotts?",
+      "What is the length of time Bill has been working at Gringotts?",
+      "What is the length of time during which Bill has been working at Gringotts?",
+      "Since when has Bill been working at Gringotts?",
+      "What is the length of time Bill has spent working at Gringotts?",
+      "For how many years has Bill been employed by Gringotts?"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Who searched Vault 713 before the thieves arrived?",
+    "correct answer": "Hagrid",
+    "incorrect answer": "Griphook",
+    "untarget question": [
+      "Who searched Vault 713 before the thieves arrived?",
+      "What entity had accessed Vault 713 before the thieves arrived on the scene?",
+      "Who was in Vault 713 before the thieves showed up?",
+      "Who was present in Vault 713 prior to the thieves' arrival?",
+      "Who entered Vault 713 before the thieves made off with the contents?",
+      "Who was in Vault 713 when the thieves arrived early?"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Which two house students will be having flying lessons together?",
+    "correct answer": "Gryffindor and Slytherin",
+    "incorrect answer": "Hufflepuff and Ravenclaw",
+    "untarget question": [
+      "Which two house students will be having flying lessons together?",
+      "Which two students from the houses will be paired for flying lessons?",
+      "Who are the two students from the houses that will be taking flying lessons together?",
+      "Who are the two students from different houses that will be sharing flying lessons?",
+      "Which pair of students from different houses will participate in flying lessons?",
+      "Which pair of students from different houses will be receiving flying lessons concurrently?"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Who did Harry claim was responsible for Dumbledore's death?",
+    "correct answer": "Snape",
+    "incorrect answer": "Draco Malfoy",
+    "untarget question": [
+      "Who did Harry claim was responsible for Dumbledore's death?",
+      "What person did Harry accuse of being responsible for Dumbledore's death?",
+      "To whom did Harry attribute the responsibility for Dumbledore's death?",
+      "To whom did Harry assign blame for Dumbledore's demise?",
+      "Whom did Harry publicly accuse of killing Dumbledore?",
+      "To whom did Harry attribute Dumbledore's murder?"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "What emotion did Harry experience during the House Championship last year?",
+    "correct answer": "happy",
+    "incorrect answer": "disappointed",
+    "untarget question": [
+      "What emotion did Harry experience during the House Championship last year?",
+      "What sentiment dominated Harry's emotional state during last year's House Championship?",
+      "What feeling characterized Harry's experience during last year's House Championship?",
+      "What sentiment was stirred in Harry during last year's House Championship?",
+      "What mood did Harry associate with the House Championship a year ago?",
+      "Which uplifting emotion accompanied Harry during the final House Championship results?"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "What is Harry searching for in his trunk?",
+    "correct answer": "Invisibility Cloak",
+    "incorrect answer": "The Marauder's Map",
+    "untarget question": [
+      "What is Harry searching for in his trunk?",
+      "What is Harry looking for in the contents of his trunk?",
+      "What object is Harry delving for within his trunk?",
+      "What prized possession is Harry trying to locate inside his trunk?",
+      "What item is Harry digging through his trunk to find?",
+      "What object is Harry attempting to retrieve from his trunk?"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "When will the servant escape?",
+    "correct answer": "tonight",
+    "incorrect answer": "tomorrow",
+    "untarget question": [
+      "When will the servant escape?",
+      "When will the servant manage to flee?",
+      "How soon will the servant manage to get away?",
+      "At what point in the near future will the servant vanish?",
+      "At what time is the servant planning to flee?",
+      "When is the servant likely to break free?"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "When did Hermione leave the hospital wing after being de-whiskered, tail-less, and furfree?",
+    "correct answer": "beginning of February",
+    "incorrect answer": "late February",
+    "untarget question": [
+      "When did Hermione leave the hospital wing after being de-whiskered, tail-less, and furfree?",
+      "At what point did Hermione depart the hospital wing after shedding her whiskers, losing her tail, and no longer having fur?",
+      "What was the date when Hermione left the hospital wing after her transformation removed her whiskers, tail, and fur?",
+      "At what point did Hermione depart the hospital wing after abandoning her whiskers, tail, and body hair?",
+      "When did Hermione depart the hospital wing after losing her cat-like physical attributes?",
+      "When did Hermione leave the hospital wing after her feline features were removed?"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "What event is Ron referring to when he mentions 'the World Cup'?",
+    "correct answer": "Quidditch World Cup",
+    "incorrect answer": "FIFA World Cup",
+    "untarget question": [
+      "What event is Ron referring to when he mentions 'the World Cup'?",
+      "What is the event Ron is alluding to when he mentions \"the World Cup\"?",
+      "What is the event Ron is talking about when he mentions \"the World Cup\"?",
+      "Which event is Ron discussing when he brings up \"the World Cup\"?",
+      "When does Ron mention \"the World Cup\", what occasion is he talking about?",
+      "When Ron says \"the World Cup\", what occasion is he referring to?"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Did Dumbledore tell Harry about Slughorn's class before?",
+    "correct answer": "No",
+    "incorrect answer": "Yes.",
+    "untarget question": [
+      "Did Dumbledore tell Harry about Slughorn's class before?",
+      "Had Dumbledore previously informed Harry about Slughorn's class?",
+      "Did Dumbledore mention Slughorn's class to Harry at any point prior?",
+      "Did Harry learn about Slughorn's class from Dumbledore earlier?",
+      "Was Slughorn's class something Dumbledore had already discussed with Harry?",
+      "Did Dumbledore ever bring up Slughorn's class with Harry before this moment?"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "What is the woman outside the apothecary selling?",
+    "correct answer": "Dragon liver",
+    "incorrect answer": "Phoenix feathers",
+    "untarget question": [
+      "What is the woman outside the apothecary selling?",
+      "What goods is the woman outside the apothecary peddling?",
+      "What does the woman standing outside the apothecary have to sell?",
+      "What does the woman outside the apothecary have on offer?",
+      "What merchandise is the woman outside the apothecary dispensing?",
+      "What is the woman offering for sale at the apothecary?"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "How many wizards are trying to control the dragons?",
+    "correct answer": "at least thirty wizards",
+    "incorrect answer": "fewer than five wizards",
+    "untarget question": [
+      "How many wizards are trying to control the dragons?",
+      "What is the total number of wizards attempting to wield control over the dragons?",
+      "What number of wizards is endeavoring to command the dragons?",
+      "What is the number of wizards actively engaged in dragon control?",
+      "How large is the group of wizards attempting to manage the dragons?",
+      "What's the total count of wizards attempting to manipulate the dragons?"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "How often does Sir Cadogan change his passwords?",
+    "correct answer": "twice a day",
+    "incorrect answer": "once a week",
+    "untarget question": [
+      "How often does Sir Cadogan change his passwords?",
+      "When does Sir Cadogan typically modify his password settings?",
+      "When does Sir Cadogan typically reset his passwords?",
+      "How many times per day does Sir Cadogan revise his passwords?",
+      "With what frequency does Sir Cadogan update his passwords?",
+      "How consistently does Sir Cadogan replace his current password with a new one?"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Who is in the compartment next to Neville?",
+    "correct answer": "Loony Lovegood",
+    "incorrect answer": "Ginny Weasley",
+    "untarget question": [
+      "Who is in the compartment next to Neville?",
+      "Whose compartment is adjacent to Neville's?",
+      "Who is located in the adjacent compartment to Neville's?",
+      "What person occupies the neighboring compartment to Neville's?",
+      "Which person shares a compartment with Neville?",
+      "Who can be found in the immediate compartment adjoining Neville's?"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "When did Harry write the letter to Sirius?",
+    "correct answer": "Before leaving",
+    "incorrect answer": "After leaving.",
+    "untarget question": [
+      "When did Harry write the letter to Sirius?",
+      "What was the timing of Harry's writing of the letter to Sirius?",
+      "What was the timing of Harry's composition of the letter to Sirius?",
+      "At what point relative to his departure did Harry compose the letter to Sirius?",
+      "Before leaving, did Harry write the letter to Sirius?",
+      "Prior to what event did Harry pen his message to Sirius?"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Who helps the students climb onto the Hippogriffs?",
+    "correct answer": "Hagrid",
+    "incorrect answer": "Professor McGonagall",
+    "untarget question": [
+      "Who helps the students climb onto the Hippogriffs?",
+      "What assists students in getting onto the Hippogriffs?",
+      "What personnel assist students in mounting the Hippogriffs?",
+      "Who lends a hand to ensure each student successfully climbs aboard a Hippogriff?",
+      "What assists students in mounting the Hippogriffs?",
+      "What guides students in their ascent onto Hippogriffs?"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "What is the current belief regarding the location of the Ravenclaw diadem?",
+    "correct answer": "Lost",
+    "incorrect answer": "Gringotts Wizarding Bank",
+    "untarget question": [
+      "What is the current belief regarding the location of the Ravenclaw diadem?",
+      "What is the prevalent notion about the current location of the Ravenclaw diadem?",
+      "What is the prevailing assumption about the Ravenclaw diadem's present location?",
+      "Where is the Ravenclaw diadem believed to be now?",
+      "What is the prevailing perspective on the Ravenclaw diadem's current positioning?",
+      "What is the prevailing understanding of the Ravenclaw diadem's current whereabouts?"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Where do Mr. and Mrs. Weasley invite Harry to eat?",
+    "correct answer": "Kitchen",
+    "incorrect answer": "Dining Room",
+    "untarget question": [
+      "Where do Mr. and Mrs. Weasley invite Harry to eat?",
+      "In which part of their house do Mr. and Mrs. Weasley invite Harry to dine?",
+      "What dining location do Mr. and Mrs. Weasley direct Harry to?",
+      "What location within their household does Mr. and Mrs. Weasley recommend for Harry's meal?",
+      "Where inside their home do Mr. and Mrs. Weasley suggest Harry have something to eat?",
+      "At what table do Mr. and Mrs. Weasley ask Harry to dine?"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "What sounds replace Ron's snoring?",
+    "correct answer": "deep, slow breathing",
+    "incorrect answer": "soft, rhythmic humming",
+    "untarget question": [
+      "What sounds replace Ron's snoring?",
+      "What replaces Ron's snoring with a different sound?",
+      "What sounds become audible once Ron's snores cease?",
+      "What replaces the rumble of Ron's snores?",
+      "What sounds fill the space where Ron's snoring used to be?",
+      "What gentler sound supersedes Ron's earlier snoring?"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "What mode of transportation would Macnair suspect the thief used to steal Buckbeak?",
+    "correct answer": "broomstick",
+    "incorrect answer": "Apparition",
+    "untarget question": [
+      "What mode of transportation would Macnair suspect the thief used to steal Buckbeak?",
+      "What means of transport do you think Macnair would suspect the thief used to steal Buckbeak?",
+      "What route do you think Macnair would suspect the thief took to transport Buckbeak away?",
+      "Which vehicle do you think Macnair would suspect the thief utilized to pilfer Buckbeak?",
+      "Which route or path do you think Macnair would suspect the thief took to spirit away Buckbeak?",
+      "How would Macnair assume the thief carried off Buckbeak?"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "What is Harry and Hermione promising to do regarding their homework?",
+    "correct answer": "promise",
+    "incorrect answer": "discuss",
+    "untarget question": [
+      "What is Harry and Hermione promising to do regarding their homework?",
+      "What is Harry and Hermione's plan for tackling their homework?",
+      "What is Harry and Hermione committing to regarding their academic tasks?",
+      "What are Harry and Hermione committing to regarding their academic tasks?",
+      "What is Harry and Hermione committing to do with regard to their academic tasks?",
+      "What is the promise Harry and Hermione make about their assignments?"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "What solution does Lee suggest for getting rid of boils?",
+    "correct answer": "Murtlap essence",
+    "incorrect answer": "Bubotuber pus",
+    "untarget question": [
+      "What solution does Lee suggest for getting rid of boils?",
+      "What remedy does Lee propose to treat boils?",
+      "What topical treatment does Lee propose for boil removal?",
+      "What does Lee believe is the best way to soothe or eliminate boils?",
+      "How does Lee recommend resolving boil issues?",
+      "What method does Lee advocate for eradicating boils?"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Where is Rita Skeeter sitting in the room?",
+    "correct answer": "corner",
+    "incorrect answer": "front row",
+    "untarget question": [
+      "Where is Rita Skeeter sitting in the room?",
+      "What location in the room is Rita Skeeter occupying?",
+      "What space in the room is Rita Skeeter currently occupying?",
+      "What's Rita Skeeter's current location in the room?",
+      "In what part of the room is Rita Skeeter situated?",
+      "What section of the room does Rita Skeeter occupy?"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Where do Harry and Riddle hide before they follow someone?",
+    "correct answer": "dungeon",
+    "incorrect answer": "broom cupboard",
+    "untarget question": [
+      "Where do Harry and Riddle hide before they follow someone?",
+      "What location do Harry and Riddle conceal themselves in before stalking someone?",
+      "At what spot do Harry and Riddle conceal themselves before setting off after someone?",
+      "What is the covert location where Harry and Riddle conceal themselves before tracking someone's movements?",
+      "From what hidden vantage point do Harry and Riddle prepare to trail another person?",
+      "Before pursuing someone, where does Harry and Riddle take cover?"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Who appears suddenly next to Harry?",
+    "correct answer": "Snape",
+    "incorrect answer": "Dumbledore",
+    "untarget question": [
+      "Who appears suddenly next to Harry?",
+      "What individual appears out of nowhere adjacent to Harry?",
+      "Who shows up unexpectedly beside Harry?",
+      "Who pops up beside Harry unexpectedly?",
+      "Who materializes beside Harry suddenly?",
+      "What person materializes near Harry all of a sudden?"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "What item did Harry inherit from his father?",
+    "correct answer": "Invisibility Cloak",
+    "incorrect answer": "Marauder's Map",
+    "untarget question": [
+      "What item did Harry inherit from his father?",
+      "What was the legacy item that Harry inherited from his father's passing?",
+      "What legacy item did Harry get from his dad?",
+      "What magical heirloom did Harry receive from his late father?",
+      "What artifact did Harry acquire from his father's legacy?",
+      "Whose possessions did Harry obtain after his father's passing?"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "How does the temperature of the room compare to other rooms in the castle?",
+    "correct answer": "colder",
+    "incorrect answer": "warmer",
+    "untarget question": [
+      "How does the temperature of the room compare to other rooms in the castle?",
+      "How does the room's temperature differ from those in the rest of the castle?",
+      "What is the room's temperature in relation to other temperatures in the castle?",
+      "What is the relative temperature of this room compared to other areas within the castle?",
+      "What is the temperature of this room in relation to the temperatures of other rooms in the castle?",
+      "Is the room's temperature consistent with or distinct from the temperatures found in other areas of the castle?"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "What effect does the bowl have on Harry's pain?",
+    "correct answer": "Relief",
+    "incorrect answer": "Intensification",
+    "untarget question": [
+      "What effect does the bowl have on Harry's pain?",
+      "Does the bowl intensify or lessen Harry's pain and how?",
+      "How is Harry's pain modified by the presence or use of the bowl?",
+      "What soothing result does the bowl produce for Harry's pain?",
+      "In what way does the bowl alleviate Harry's agony?",
+      "How does the contents of the bowl influence Harry's discomfort?"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Where does Harry watch the owl fly into?",
+    "correct answer": "chair",
+    "incorrect answer": "fireplace",
+    "untarget question": [
+      "Where does Harry watch the owl fly into?",
+      "At what spot does Harry watch the owl swoop in?",
+      "What location does Harry view the owl's entrance from?",
+      "What is the location where Harry observes the owl's arrival?",
+      "When does Harry witness the owl's landing place?",
+      "At what point does Harry spot the owl's landing?"
+    ]
+  }
+]
